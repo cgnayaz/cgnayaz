@@ -6,7 +6,7 @@ Exploring the world of software development, one line of code at a time. I focus
 
 - 🔭 Working on: **Koru Project** (Safety & Tracking System)
 - 🌱 Learning: Data Structures & Algorithms
-- 🦅 Interests: Football (Beşiktaş), Technology, Open Source.
+- 🦅 Interests:Machine Learning, Technology, Open Source.
 
 ---
 
