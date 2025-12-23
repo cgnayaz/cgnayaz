@@ -1,16 +1,19 @@
-## Hi there 👋
+# Çağan Ayaz
 
-<!--
-**cgnayaz/cgnayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ Istanbul Aydin University**
 
-Here are some ideas to get you started:
+Exploring the world of software development, one line of code at a time. I focus on **Java** and **C**, with a keen interest in building efficient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on: **Koru Project** (Safety & Tracking System)
+- 🌱 Learning: Data Structures & Algorithms
+- 🦅 Interests: Football (Beşiktaş), Technology, Open Source.
+
+---
+
+### 💻 Tech Stack
+`Java` `C Programming` `Git` `Software Architecture`
+
+---
+
+
+[**Connect on LinkedIn**](https://www.linkedin.com/in/çağan-ayaz-707933299)
